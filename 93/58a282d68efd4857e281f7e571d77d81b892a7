@@ -1,0 +1,21 @@
+AGENTS.md
+  s_92e92263d97419::t_ac940de5ba5b55 1-37,39-46,49-57
+  s_92e92263d97419::t_0fd03e97d9b7e9 38,47-48
+  s_92e92263d97419::t_e92149aa9762b7 58-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9358a282d68efd4857e281f7e571d77d81b892a7",
+  "prompts": {},
+  "sessions": {
+    "s_92e92263d97419": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13aba-e4f8-7731-9ef3-543ff7c04b7f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
