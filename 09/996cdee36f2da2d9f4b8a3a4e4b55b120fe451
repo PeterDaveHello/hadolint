@@ -1,0 +1,34 @@
+AGENTS.md
+  s_92e92263d97419::t_0fd03e97d9b7e9 41,50-51
+  s_92e92263d97419::t_e92149aa9762b7 62-64
+  s_6dc1a435344eb5::t_009487a2bf604e 76-78,96-98
+  s_6dc1a435344eb5::t_70b951d237df28 21-22,71-75
+  s_6dc1a435344eb5::t_4d6ca211b94237 55-56,91,99
+  s_6dc1a435344eb5::t_5f2a4eed6f801d 33-34,100-102
+  s_92e92263d97419::t_ac940de5ba5b55 1-20,23-32,35-40,42-49,52-54,57-61
+  s_6dc1a435344eb5::t_d1ae7d153f50ad 65-70,79-90,92-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "09996cdee36f2da2d9f4b8a3a4e4b55b120fe451",
+  "prompts": {},
+  "sessions": {
+    "s_6dc1a435344eb5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13978-0cb9-74c2-877c-f5c98308cc38",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    },
+    "s_92e92263d97419": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13aba-e4f8-7731-9ef3-543ff7c04b7f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
